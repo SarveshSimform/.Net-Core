@@ -1,0 +1,5 @@
+C:\Users\dhruvin\Documents\Asp.net\ASP.NET Core\Praticals\Practical-16\Practical-16\Practical-16.Data\obj\Debug\Practical-16.Data.csproj.CoreCompileInputs.cache
+C:\Users\dhruvin\Documents\Asp.net\ASP.NET Core\Praticals\Practical-16\Practical-16\Practical-16.Data\bin\Debug\Practical-16.Data.dll
+C:\Users\dhruvin\Documents\Asp.net\ASP.NET Core\Praticals\Practical-16\Practical-16\Practical-16.Data\bin\Debug\Practical-16.Data.pdb
+C:\Users\dhruvin\Documents\Asp.net\ASP.NET Core\Praticals\Practical-16\Practical-16\Practical-16.Data\obj\Debug\Practical-16.Data.dll
+C:\Users\dhruvin\Documents\Asp.net\ASP.NET Core\Praticals\Practical-16\Practical-16\Practical-16.Data\obj\Debug\Practical-16.Data.pdb

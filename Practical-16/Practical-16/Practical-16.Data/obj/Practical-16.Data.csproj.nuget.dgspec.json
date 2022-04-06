@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dhruvin\\Documents\\Asp.net\\ASP.NET Core\\Praticals\\Practical-16\\Practical-16\\Practical-16.Data\\Practical-16.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dhruvin\\Documents\\Asp.net\\ASP.NET Core\\Praticals\\Practical-16\\Practical-16\\Practical-16.Data\\Practical-16.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dhruvin\\Documents\\Asp.net\\ASP.NET Core\\Praticals\\Practical-16\\Practical-16\\Practical-16.Data\\Practical-16.Data.csproj",
+        "projectName": "Practical-16.Data",
+        "projectPath": "C:\\Users\\dhruvin\\Documents\\Asp.net\\ASP.NET Core\\Praticals\\Practical-16\\Practical-16\\Practical-16.Data\\Practical-16.Data.csproj",
+        "packagesPath": "C:\\Users\\dhruvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhruvin\\Documents\\Asp.net\\ASP.NET Core\\Praticals\\Practical-16\\Practical-16\\Practical-16.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\dhruvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

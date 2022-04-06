@@ -1,0 +1,233 @@
+{
+  "version": 2,
+  "dgSpecHash": "3FCr2zf9aMXoD0u/9c40AcXdv3SrmlvmcczUv4aFwMNaNSA8wSa3my5xkf6Ndw8zkFEq8tuxFmMWSxNg3SMd0g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\dhruvin\\Documents\\Asp.net\\ASP.NET Core\\Praticals\\Practical-16\\Practical-16\\Practical-16.Data\\Practical-16.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhruvin\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.14\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.14.nupkg.sha512",
+    "C:\\Users\\dhruvin\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\5.0.12\\microsoft.aspnetcore.identity.entityframeworkcore.5.0.12.nupkg.sha512",
+    "C:\\Users\\dhruvin\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.12\\microsoft.aspnetcore.identity.ui.5.0.12.nupkg.sha512",
+    "C:\\Users\\dhruvin\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.12\\microsoft.entityframeworkcore.design.5.0.12.nupkg.sha512",
+    "C:\\Users\\dhruvin\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.12\\microsoft.entityframeworkcore.sqlserver.5.0.12.nupkg.sha512",
+    "C:\\Users\\dhruvin\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.12\\microsoft.entityframeworkcore.tools.5.0.12.nupkg.sha512",
+    "C:\\Users\\dhruvin\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\5.0.2\\microsoft.visualstudio.web.codegeneration.design.5.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 5.0.14 is not compatible with net48 (.NETFramework,Version=v4.8). Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 5.0.14 supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8). Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.12 supports:\r\n  - net5.0 (.NETCoreApp,Version=v5.0)\r\n  - netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8). Package Microsoft.EntityFrameworkCore.SqlServer 5.0.12 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8). Package Microsoft.EntityFrameworkCore.Tools 5.0.12 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.VisualStudio.Web.CodeGeneration.Design 5.0.2 is not compatible with net48 (.NETFramework,Version=v4.8). Package Microsoft.VisualStudio.Web.CodeGeneration.Design 5.0.2 supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8). Package Microsoft.EntityFrameworkCore.Design 5.0.12 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 5.0.14 is not compatible with net48 (.NETFramework,Version=v4.8) / win. Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 5.0.14 supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8) / win. Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.12 supports:\r\n  - net5.0 (.NETCoreApp,Version=v5.0)\r\n  - netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8) / win. Package Microsoft.EntityFrameworkCore.SqlServer 5.0.12 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8) / win. Package Microsoft.EntityFrameworkCore.Tools 5.0.12 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.VisualStudio.Web.CodeGeneration.Design 5.0.2 is not compatible with net48 (.NETFramework,Version=v4.8) / win. Package Microsoft.VisualStudio.Web.CodeGeneration.Design 5.0.2 supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8) / win. Package Microsoft.EntityFrameworkCore.Design 5.0.12 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 5.0.14 is not compatible with net48 (.NETFramework,Version=v4.8) / win-x64. Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 5.0.14 supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8) / win-x64. Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.12 supports:\r\n  - net5.0 (.NETCoreApp,Version=v5.0)\r\n  - netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8) / win-x64. Package Microsoft.EntityFrameworkCore.SqlServer 5.0.12 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8) / win-x64. Package Microsoft.EntityFrameworkCore.Tools 5.0.12 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.VisualStudio.Web.CodeGeneration.Design 5.0.2 is not compatible with net48 (.NETFramework,Version=v4.8) / win-x64. Package Microsoft.VisualStudio.Web.CodeGeneration.Design 5.0.2 supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8) / win-x64. Package Microsoft.EntityFrameworkCore.Design 5.0.12 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 5.0.14 is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore 5.0.14 supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Package Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.0.12 supports:\r\n  - net5.0 (.NETCoreApp,Version=v5.0)\r\n  - netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.SqlServer 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Package Microsoft.EntityFrameworkCore.SqlServer 5.0.12 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Package Microsoft.EntityFrameworkCore.Tools 5.0.12 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.VisualStudio.Web.CodeGeneration.Design 5.0.2 is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Package Microsoft.VisualStudio.Web.CodeGeneration.Design 5.0.2 supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design 5.0.12 is not compatible with net48 (.NETFramework,Version=v4.8) / win-x86. Package Microsoft.EntityFrameworkCore.Design 5.0.12 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    }
+  ]
+}
